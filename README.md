@@ -10,7 +10,7 @@
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 
 ### Contact Me
-<a href="https://www.linkedin.com/in/maurovera/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mauro%20Vera-blue?style=flat-square&logo=linkedin"></a> 
+<a href="http://www.linkedin.com/in/edward-nicolas-garzón-cañón-a280b4126"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Edward%20Garzon-blue?style=flat-square&logo=linkedin"></a> 
 <a href="niconicog3@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-niconicog3@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
 <!---
