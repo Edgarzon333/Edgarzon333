@@ -1,5 +1,5 @@
 <h1>Hello! I'm Edward Garzón <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 🚀</h1>
-<h2>Developer Jnuior 🎨</h2>
+<h2>Developer Junior 🎨</h2>
 
 ### About Me
 - I am 25 years old and I am from Bogotá, Colombia.
